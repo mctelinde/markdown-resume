@@ -8,7 +8,7 @@ Use the following command to generate your resume from markdown:
 pandoc --standalone -c style.css --from markdown --to html -o index.html chris_resume.md
 ```
 
-### Generate PDF Resume
+### Generate PDF Resume (using ConTeXt)
 
 ```
 pandoc --standalone -c style.css --from markdown --to pdf -o chris_resume.pdf chris_resume.md -t context
