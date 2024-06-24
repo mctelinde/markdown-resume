@@ -4,14 +4,14 @@ Chris Telinde
 -----------------------     ------------------------
 2826 Barnstormer St. #3          mctelinde@gmail.com
 Fort Collins, CO 80524                  580-977-9107
-United States                                       
 -----------------------     -------------------------
 
 Education
 ---------
 
 2013-2014
-:   **B.Sc., Computer Science**; Northwestern Oklahoma State University (Alva, OK)
+:   **B.Sc., Computer Science**; Northwestern Oklahoma State 
+    University (Alva, OK)
 
     *Minor: Chemistry*
 
@@ -19,30 +19,37 @@ Education
 :   **A.Sc., Applied Sciences**; Northern Oklahoma College 
     (Enid, OK)
 
-    *Focus: Pre-Pharmacy*
+Professional Experience
+-----------------------
 
-Experience
-----------
+2021-Present
+:   **LexisNexis Risk Solutions**
 
-**LexisNexis Risk Solutions**
+    *Senior Software Engineer (Remote), Aug 2021 - Present*
+    
+    Serve as an engineering team lead, collaborating with relevant 
+    resources (e.g., business, QA, development, and other 
+    stakeholders) to determine the best technical solution for 
+    business needs defined by LexisNexis Risk Solutions.
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
+2014-2021
+:   **Pioneer Telephone Cooperative**
 
-* First item
-
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
-
-**Pioneer Telephone**
-
-Also with a short description.
+    *Department Manager - MIS, Dec 2019 - Aug 2021*
+    
+    Seven years of experience in the telephone/ISP industry. One year
+    of experience working with U.S. legal filing data. Varied 
+    IT-related work history, including Linux-based systems 
+    administration, networking, Python scripting, .NET software 
+    development, and database administration for multiple database 
+    platforms. Proven ability to implement full-stack software 
+    solutions that improve the quality of life for stakeholders and 
+    customers alike. 
 
 Technical Experience
 --------------------
 
-My Cool Side Project
+Databases
 :   For items which don't have a clear time ordering, a definition
     list can be used to have named items.
 
@@ -50,15 +57,8 @@ My Cool Side Project
       indentation levels in the markdown source.
     * Second item.
 
-Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
-
 Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
+:   **C#/.NET** Here, we have an itemization, where we only want
     to add descriptions to the first few items, but still want to
     mention some others together at the end. A format that works well
     here is a description list where the first few items have their
@@ -66,20 +66,22 @@ Programming Languages
     emphasized terms. Notice the reasonably nice page break in the pdf
     version, which wouldn't happen if we generated the pdf via html.
 
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
+:   **JavaScript/Angular** Description of your experience with lang,
+    perhaps again including a [link][ref], this time placing the url
+    reference elsewhere in the document to reduce clutter (see source
+    file).
+
+:   **Python:** Description of your experience with second-lang,
+    perhaps again including a [link][ref], this time placing the url
     reference elsewhere in the document to reduce clutter (see source
     file). 
 
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
-
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
+:   Basic knowledge of **C++**
 
 [ref]: https://github.com/githubuser/superlongprojectname
 
-Extra Section, Call it Whatever You Want
-----------------------------------------
+General Interests
+-----------------
 
 * Human Languages:
 

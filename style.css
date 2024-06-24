@@ -16,23 +16,23 @@ body {
     padding: 10px 10px 10px 10px;
 }
 
-/*
-.title {
-    display: none;
-}
-*/
+
+/* .title {
+    display: "Chris Telinde's Resume";
+} */
+
 
 /* Title of the resume */
 h1 {
     font-size: 55px;
-    color: #778899;
+    color: #4d6175;
     text-align:center;
     margin-bottom:15px;
 }
 
 /* Titles of categories */
 h2 {
-    color: #778899;
+    color: #4d6175;
 }
 /* There is a bar just before each category */
 h2:before {
