@@ -1,31 +1,30 @@
 Chris Telinde
 =============
 
--------------------     ----------------------------
-1 MyAddress                        email@example.com
-MyTown 1000                          @twitter_handle
-MyCountry                           1800 my-phone-nr
--------------------     ----------------------------
+-----------------------     ------------------------
+2826 Barnstormer St. #3          mctelinde@gmail.com
+Fort Collins, CO 80524                  580-977-9107
+United States                                       
+-----------------------     -------------------------
 
 Education
 ---------
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+2013-2014
+:   **B.Sc., Computer Science**; Northwestern Oklahoma State University (Alva, OK)
 
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
+    *Minor: Chemistry*
 
 2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
+:   **A.Sc., Applied Sciences**; Northern Oklahoma College 
+    (Enid, OK)
 
-    *Minor: Awesomeology*
+    *Focus: Pre-Pharmacy*
 
 Experience
 ----------
 
-**Your Most Recent Work Experience:**
+**LexisNexis Risk Solutions**
 
 Short text containing the type of work done, results obtained,
 lessons learned and other remarks. Can also include lists and
@@ -36,7 +35,7 @@ links:
 * Item with [link](http://www.example.com). Links will work both in
   the html and pdf versions.
 
-**That Other Job You Had**
+**Pioneer Telephone**
 
 Also with a short description.
 
