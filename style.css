@@ -17,9 +17,9 @@ body {
 }
 
 
-/* .title {
+.title {
     display: "Chris Telinde's Resume";
-} */
+}
 
 
 /* Title of the resume */
@@ -59,7 +59,7 @@ p {
     margin-bottom:7px;
 }
 
-/* Blockquotes */
+/* Block quotes */
 blockquote {
     text-align: center
 }
