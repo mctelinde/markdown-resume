@@ -3,7 +3,7 @@ Chris Telinde
 
 -----------------------             ------------------------
 2826 Barnstormer St. Unit 3              [mctelinde@gmail.com](mailto:mctelinde@gmail.com)
-Fort Collins, CO 80524                          580-977-9107
+Fort Collins, CO 80524                          580-977-9107 | [github.com/mctelinde](https://github.com/mctelinde)
 -----------------------             ------------------------
 
 Education
